@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="150375b6-1229-4e2b-92e5-52366062c283" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../Pemrograman Mobile/Pertemuan 3/~$_Livia Yurike Khuril Maula_1841720025.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Pemrograman Mobile/Pertemuan 4/04-hello-world-room-2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Pemrograman Mobile/Pertemuan 4/Room-02/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Pemrograman Mobile/Pertemuan 4/Room-02/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Pemrograman Mobile/Pertemuan 4/Room-02/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Pemrograman Mobile/Pertemuan 4/Room-02/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Pemrograman Mobile/Pertemuan 4/Room-02/app/src/androidTest/java/com/example/room_02/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Pemrograman Mobile/Pertemuan 4/Room-02/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Pemrograman Mobile/Pertemuan 4/Room-02/app/src/main/java/com/example/room_02/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Pemrograman Mobile/Pertemuan 4/Room-02/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Pemrograman Mobile/Pertemuan 4/Room-02/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Pemrograman Mobile/Pertemuan 4/Room-02/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Pemrograman Mobile/Pertemuan 4/Room-02/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Pemrograman Mobile/Pertemuan 4/Room-02/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Pemrograman Mobile/Pertemuan 4/Room-02/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Pemrograman Mobile/Pertemuan 4/Room-02/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Pemrograman Mobile/Pertemuan 4/Room-02/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Pemrograman Mobile/Pertemuan 4/Room-02/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Pemrograman Mobile/Pertemuan 4/Room-02/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Pemrograman Mobile/Pertemuan 4/Room-02/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Pemrograman Mobile/Pertemuan 4/Room-02/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Pemrograman Mobile/Pertemuan 4/Room-02/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Pemrograman Mobile/Pertemuan 4/Room-02/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Pemrograman Mobile/Pertemuan 4/Room-02/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Pemrograman Mobile/Pertemuan 4/Room-02/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Pemrograman Mobile/Pertemuan 4/Room-02/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Pemrograman Mobile/Pertemuan 4/Room-02/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Pemrograman Mobile/Pertemuan 4/Room-02/app/src/test/java/com/example/room_02/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Pemrograman Mobile/Pertemuan 4/Room-02/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Pemrograman Mobile/Pertemuan 4/Room-02/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Pemrograman Mobile/Pertemuan 4/Room-02/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Pemrograman Mobile/Pertemuan 4/Room-02/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Pemrograman Mobile/Pertemuan 4/Room-02/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Pemrograman Mobile/Pertemuan 4/Room-02/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Pemrograman Mobile/Pertemuan 4/Room-02/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jrWub3pWslN8o9vCOgGZVj63aT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TrafficClient" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Server" />
+      <module name="TrafficServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="150375b6-1229-4e2b-92e5-52366062c283" name="Default Changelist" comment="" />
+      <created>1604562920252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604562920252</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1604611374574">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1604611374574" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1604632487401">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1604632487401" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1604632487401">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1604632487401" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1604632487401">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1604632487401" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1604632487401">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1604632487401" />
+  </component>
+</project>

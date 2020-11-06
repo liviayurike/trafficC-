@@ -1,0 +1,10 @@
+D:\Kuliah\SEMESTER 5\Pemrograman Jaringan\Pertemuan 6\Project Traffic C#\TrafficServer\TrafficServer\TrafficServer\bin\Debug\TrafficServer.exe.config
+D:\Kuliah\SEMESTER 5\Pemrograman Jaringan\Pertemuan 6\Project Traffic C#\TrafficServer\TrafficServer\TrafficServer\bin\Debug\TrafficServer.exe
+D:\Kuliah\SEMESTER 5\Pemrograman Jaringan\Pertemuan 6\Project Traffic C#\TrafficServer\TrafficServer\TrafficServer\bin\Debug\TrafficServer.pdb
+D:\Kuliah\SEMESTER 5\Pemrograman Jaringan\Pertemuan 6\Project Traffic C#\TrafficServer\TrafficServer\TrafficServer\obj\Debug\TrafficServer.csprojAssemblyReference.cache
+D:\Kuliah\SEMESTER 5\Pemrograman Jaringan\Pertemuan 6\Project Traffic C#\TrafficServer\TrafficServer\TrafficServer\obj\Debug\TrafficServer.Form1.resources
+D:\Kuliah\SEMESTER 5\Pemrograman Jaringan\Pertemuan 6\Project Traffic C#\TrafficServer\TrafficServer\TrafficServer\obj\Debug\TrafficServer.Properties.Resources.resources
+D:\Kuliah\SEMESTER 5\Pemrograman Jaringan\Pertemuan 6\Project Traffic C#\TrafficServer\TrafficServer\TrafficServer\obj\Debug\TrafficServer.csproj.GenerateResource.cache
+D:\Kuliah\SEMESTER 5\Pemrograman Jaringan\Pertemuan 6\Project Traffic C#\TrafficServer\TrafficServer\TrafficServer\obj\Debug\TrafficServer.csproj.CoreCompileInputs.cache
+D:\Kuliah\SEMESTER 5\Pemrograman Jaringan\Pertemuan 6\Project Traffic C#\TrafficServer\TrafficServer\TrafficServer\obj\Debug\TrafficServer.exe
+D:\Kuliah\SEMESTER 5\Pemrograman Jaringan\Pertemuan 6\Project Traffic C#\TrafficServer\TrafficServer\TrafficServer\obj\Debug\TrafficServer.pdb

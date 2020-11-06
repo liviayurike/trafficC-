@@ -1,0 +1,10 @@
+D:\Kuliah\SEMESTER 5\Pemrograman Jaringan\Pertemuan 6\Project Traffic C#\TrafficClient\TrafficClient\TrafficClient\bin\Debug\TrafficClient.exe.config
+D:\Kuliah\SEMESTER 5\Pemrograman Jaringan\Pertemuan 6\Project Traffic C#\TrafficClient\TrafficClient\TrafficClient\bin\Debug\TrafficClient.exe
+D:\Kuliah\SEMESTER 5\Pemrograman Jaringan\Pertemuan 6\Project Traffic C#\TrafficClient\TrafficClient\TrafficClient\bin\Debug\TrafficClient.pdb
+D:\Kuliah\SEMESTER 5\Pemrograman Jaringan\Pertemuan 6\Project Traffic C#\TrafficClient\TrafficClient\TrafficClient\obj\Debug\TrafficClient.csprojAssemblyReference.cache
+D:\Kuliah\SEMESTER 5\Pemrograman Jaringan\Pertemuan 6\Project Traffic C#\TrafficClient\TrafficClient\TrafficClient\obj\Debug\TrafficClient.Form1.resources
+D:\Kuliah\SEMESTER 5\Pemrograman Jaringan\Pertemuan 6\Project Traffic C#\TrafficClient\TrafficClient\TrafficClient\obj\Debug\TrafficClient.Properties.Resources.resources
+D:\Kuliah\SEMESTER 5\Pemrograman Jaringan\Pertemuan 6\Project Traffic C#\TrafficClient\TrafficClient\TrafficClient\obj\Debug\TrafficClient.csproj.GenerateResource.cache
+D:\Kuliah\SEMESTER 5\Pemrograman Jaringan\Pertemuan 6\Project Traffic C#\TrafficClient\TrafficClient\TrafficClient\obj\Debug\TrafficClient.csproj.CoreCompileInputs.cache
+D:\Kuliah\SEMESTER 5\Pemrograman Jaringan\Pertemuan 6\Project Traffic C#\TrafficClient\TrafficClient\TrafficClient\obj\Debug\TrafficClient.exe
+D:\Kuliah\SEMESTER 5\Pemrograman Jaringan\Pertemuan 6\Project Traffic C#\TrafficClient\TrafficClient\TrafficClient\obj\Debug\TrafficClient.pdb
